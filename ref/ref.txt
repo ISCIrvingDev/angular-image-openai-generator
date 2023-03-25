@@ -2,6 +2,9 @@
 Let's build an Image Generator with OpenAI and Angular
 https://www.youtube.com/watch?v=FfehkSYT-jQ
 
+Install Tailwind CSS with Angular
+https://tailwindcss.com/docs/guides/angular
+
   // Paquetes
 npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init
